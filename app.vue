@@ -1,6 +1,7 @@
 <template>
   <div>
-    <NuxtWelcome />
-    <div class="">asdasd</div>
+    <NuxtLink to="/">home</NuxtLink>
+    <NuxtLink to="/radio">radio</NuxtLink>
+    <NuxtPage />
   </div>
 </template>
